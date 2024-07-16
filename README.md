@@ -10,7 +10,7 @@ node: v20.12.2
 
 1. Run `npm i`
 2. Run `firebase emulators:start --project demo-project`
-3. Invoke the function "http://127.0.0.1:5001/demo-project/us-central1/publishMessage`
+3. Invoke the function "http://127.0.0.1:5001/demo-project/us-central1/publishMessage"
    - You can open the link on a browser, or use curl
 4. Outputs from the logs indicate that publish time is "1970-01-01T00:00:00.514Z"
 
